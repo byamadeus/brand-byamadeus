@@ -34,13 +34,13 @@ export default function Home() {
           Explore the work I do:
         </h2>
         <div className="flex flex-col gap-4">
-          <Card href="#" label="ux.byamadeus.com" icon={<SquareDashedMousePointer/>}>
+          <Card href="https://ux.byamadeus.com" label="ux.byamadeus.com" icon={<SquareDashedMousePointer/>}>
             I am a product designer driven by <em>vision</em>.
           </Card>
-          <Card href="#" label="sites.byamadeus.com" icon={<AppWindow/>}>
+          <Card href="https://sites.byamadeus.com" label="sites.byamadeus.com" icon={<AppWindow/>}>
             I make websites that are <em>cool as shit</em>.
           </Card>
-          <Card href="#" label="tests.byamadeus.com" icon={<Origami/>}>
+          <Card href="https://tests.byamadeus.com" label="tests.byamadeus.com" icon={<Origami/>}>
             I experiment in the world to <em>understand it</em>.
           </Card>
         </div>
