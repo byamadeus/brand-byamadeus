@@ -19,12 +19,11 @@ export default function Home() {
           <BlitzText text="AMADEUS" />
         </div>
         </div>
-        <div className="w-full flex flex-col items-left text-2xl max-w-[800px] leading-relaxed text-white/80 gap-8">
-        <p>If there&apos;s one thing you must know about me, I never stop
-          learning. The world around us is the greatest teacher we have, and the
-          greatest reference for what can be.</p>
+        <div className="w-full flex flex-col text-center items-left text-2xl max-w-[800px] leading-relaxed text-white/80 gap-8">
+        <p>I learn in order to change the world.</p>
+        {/* <p>I'll never stop learning.</p> */}
+        <p>The world is my greatest teacher &amp; my greatest source of inspiration.</p>
         
-        <p>Let&apos;s build the future we want to see.</p>
         </div>
       </header>
 
