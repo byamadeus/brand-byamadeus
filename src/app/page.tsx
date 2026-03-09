@@ -20,9 +20,9 @@ export default function Home() {
         </div>
         </div>
         <div className="w-full flex flex-col text-center items-left text-2xl max-w-[800px] leading-relaxed text-white/80 gap-8">
-        <p>I learn in order to change the world.</p>
+        <p>From the smallest idea to the grandest vision, I design to create the world I want to see.</p>
+        {/* <p>If you have an idea that feels almost too big — where it's just out of reach — that's the sign we should work together.</p> */}
         {/* <p>I'll never stop learning.</p> */}
-        <p>The world is my greatest teacher &amp; my greatest source of inspiration.</p>
         
         </div>
       </header>
